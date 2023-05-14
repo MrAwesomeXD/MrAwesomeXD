@@ -17,4 +17,4 @@
   
 ## My Git stats
 [[[[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-MrAwesomeXD&theme=dark&background=000000)]
-](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
+](https://github-readme-streak-stats.herokuapp.com/?user=your-MrAwesomeXD)
