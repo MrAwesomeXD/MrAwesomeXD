@@ -16,4 +16,4 @@
 - 🌱 Hobbieeee :- **Coding, Playing Minecraft, chess, cricket, reading books and a tons lotta things!**
   
 ## My Git stats
-<img src="https://github-readme-stats.vercel.app/api?username=SOham2008&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham2008&theme=radical"/>|
+[[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com/?user=your-MrAwesomeXD)
