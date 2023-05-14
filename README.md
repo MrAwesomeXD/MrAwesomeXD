@@ -1,16 +1,19 @@
-### Hi there 👋
+###  🙃Heyo Coders!!
 
-<!--
-**MrAwesomeXD/MrAwesomeXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<h1 > I'm Soham Swarup</h1>
+<h3>A Boy trying to Code out Stuff!!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+- 📫 How to reach me :- **Message me at sohamswarup2000@gmail.com**
+- ⚡ Fun fact :- **I think I am funny XD**
+- 🌱 Hobbieeee :- **Coding, Playing Minecraft, chess, cricket, reading books and a tons lotta things!**
+  
+## My Git stats
+<img src="https://github-readme-stats.vercel.app/api?username=SOham2008&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham2008&theme=radical"/>|
