@@ -16,5 +16,4 @@
 - 🌱 Hobbieeee :- **Coding, Playing Minecraft, chess, cricket, reading books and a tons lotta things!**
   
 ## My Git stats
-[[[[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-MrAwesomeXD&theme=dark&background=000000)]
-](https://github-readme-streak-stats.herokuapp.com/?user=your-MrAwesomeXD)
+![MrAwesomeXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrawesomexd&show_icons=true&theme=transparent)
